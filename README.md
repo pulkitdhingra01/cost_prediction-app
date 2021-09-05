@@ -1,12 +1,12 @@
-# cost_prediction-app
+# Cost Prediction-app
 The deployed web app is live at 
 
 This web app predicts cost of a product as a function of their input parameters.
 
 The web app was built in Python using the following libraries:
 
-streamlit
-pandas
-numpy
-scikit-learn
-pickle
+Streamlit
+Pandas
+Numpy
+Scikit-learn
+Pickle
