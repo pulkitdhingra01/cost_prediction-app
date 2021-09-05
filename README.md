@@ -5,8 +5,8 @@ This web app predicts cost of a product as a function of their input parameters.
 
 The web app was built in Python using the following libraries:
 
-Streamlit
-Pandas
-Numpy
-Scikit-learn
-Pickle
+1. Streamlit
+2. Pandas
+3. Numpy
+4. Scikit-learn
+5. Pickle
