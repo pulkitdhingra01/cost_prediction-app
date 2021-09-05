@@ -1,7 +1,6 @@
 import streamlit as st
 import pandas as pd
-from sklearn import datasets
-from sklearn.ensemble import RandomForestRegressor
+
 
 st.write("""
 # Cost Prediction App
